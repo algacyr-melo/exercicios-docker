@@ -22,5 +22,5 @@
     docker run --rm meu-echo
     ```
 
-![1-build]("./screenshots/1-build.png")
-![2-run]("./screenshots/2-run.png")
+![1-build](screenshots/1-build.png)
+![2-run](screenshots/2-run.png)
