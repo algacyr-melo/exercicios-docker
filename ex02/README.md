@@ -7,7 +7,7 @@
     docker run --rm --name ex02-nginx -d nginx
     ```
 
-2. ...que sirva uma página HTML customizada ([index.html](html/index.html).
+2. ...que sirva uma página HTML customizada ([index.html](html/index.html)).
     ```html
     <!DOCTYPE html>
     <html lang="pt-BR">
