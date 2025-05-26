@@ -7,7 +7,7 @@
     docker run --rm --name ex02-nginx -d nginx
     ```
 
-2. ...que sirva uma página HTML customizada ([[index.html]]).
+2. ...que sirva uma página HTML customizada ([index.html](html/index.html)).
 
 3. Monte um volume local com esse arquivo para que ele apareça
 na raíz do site (/usr/share/nginx/html).
