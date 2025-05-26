@@ -1,6 +1,6 @@
 # ex01
 
-## Quebrando a descrição
+## Quebrando o problema
 
 1. Crie um arquivo Dockerfile que utilize a imagem alpine como base...
     ```Dockerfile
@@ -23,4 +23,3 @@
     docker run --rm meu-echo
     ```
     ![2-run](screenshots/2-run.png)
-
