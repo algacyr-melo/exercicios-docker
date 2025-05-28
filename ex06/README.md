@@ -16,5 +16,5 @@ reduzindo o tamanho da imagem final.
     ![run-docker-gs-ping](./screenshots/run-docker-gs-ping.png)
     _run docker-gs-ping_
 
-    ![localhost-8080](./screenshots/localhost-8080)
+    ![localhost-8080](./screenshots/localhost-8080.png)
     _localhost:8080_
