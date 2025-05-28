@@ -77,3 +77,9 @@ reduzindo o tamanho da imagem final.
 
     ENTRYPOINT ["/docker-gs-ping"]
     ```
+
+    ![ms-build](./screenshots/multi-stage.png)
+
+2. Utilize para praticar o projeto gs-ping desenvolvido em Golang
+
+![docker-gs-ping](./screenshots/docker-gs-ping.png)
