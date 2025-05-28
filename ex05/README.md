@@ -13,3 +13,4 @@ com o comando echo.
     ```bash
     docker run -e MEU_NOME=algacyr alpine:3.21.3 sh -c 'echo "$MEU_NOME"'
     ```
+    ![meu-nome](./screenshots/meu-nome.png)
