@@ -1,10 +1,13 @@
 # ex07
 
-![](./screenshots/compose-up.png)
-_deploy com docker compose_
+## Descrição
+Crie um projeto no docker compose para executar o projeto React Express + Mongo
 
-![](./screenshots/localhost-3000.png)
- _localhost:3000_
+    ![](./screenshots/compose-up.png)
+    _deploy com docker compose_
 
-![](./screenshots/compose-down.png)
-_parando e removendo os containers_
+    ![](./screenshots/localhost-3000.png)
+     _localhost:3000_
+
+    ![](./screenshots/compose-down.png)
+    _parando e removendo os containers_
