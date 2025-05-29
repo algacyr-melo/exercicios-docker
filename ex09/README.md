@@ -17,4 +17,4 @@ EXPOSE 80
 docker run -dp 8080:80 material-kit-site
 ```
 
-![](./localhost-8080)
+![](./screenshots/localhost-8080.png)
