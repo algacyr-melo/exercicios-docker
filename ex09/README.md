@@ -5,6 +5,7 @@ Construa uma imagem baseada no Nginx ou Apache, adicionando um site
 HTML/CSS estático. Utilize a landing page do Creative Tim
 para criar uma página moderna hospedada no container
 
+## Execução
 ```Dockerfile
 FROM nginx:alpine
 
