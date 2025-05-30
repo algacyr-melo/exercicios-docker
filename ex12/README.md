@@ -33,3 +33,4 @@ Identifique as melhorias e gere uma nova versão de Dockerfile
     ```
 
 ![](./screenshots/image-size-comparison.png)
+_Comparação do tamanho de imagem antes e depois da otimização_
