@@ -20,7 +20,7 @@ ou node:16, em busca de vulnerabilidades conhecidas.
     trivy --timeout 10m image --severity CRITICAL,HIGH python:3.9
     ```
 
-![](./screenshots/trivy-scan.png)
+    ![](./screenshots/trivy-scan.png)
 
 4. Vulnerabilidades Encontradas:
 
@@ -60,7 +60,7 @@ zlib: integer overflow and resultant heap-based buffer
     FROM python:3.11-slim-bookworm
     ```
 
-![](./screenshots/change-base-image.png)
+    ![](./screenshots/change-base-image.png)
 
 ## Conclusão
 A migração para python:3.11-slim-bookworm resolve todas as vulnerabilidades críticas identificadas, pois:
