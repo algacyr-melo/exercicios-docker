@@ -31,5 +31,5 @@ não-root.
     ```
     ![](./screenshots/run.png)
 
-    ![](./screenshots/localhost-8080.png.png)
+    ![](./screenshots/localhost-8080.png)
 
